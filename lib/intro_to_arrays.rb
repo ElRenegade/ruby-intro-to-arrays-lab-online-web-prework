@@ -8,5 +8,5 @@ end
 
 def first_element(array)
   my_new_array = array
-  my_new_array.unshift
+  my_new_array.unshift(0)
 end
